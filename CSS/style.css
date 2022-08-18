@@ -9,8 +9,8 @@ body {
   width: 100%;
   font-family: "Roboto", sans-serif;
 }
-.space{
-    display: inline-block;
+.space {
+  display: inline-block;
 }
 .top {
   display: inline-block;
@@ -109,6 +109,6 @@ p {
 div :hover {
   background-color: rgba(7, 7, 7, 0.753);
 }
-p{
-    font-size: small;
+p {
+  font-size: small;
 }
